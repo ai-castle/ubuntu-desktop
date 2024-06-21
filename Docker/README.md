@@ -1,8 +1,13 @@
 # README
 
-- user name : user
-- user pwd  : 1234
-- rdp port : 3390
+## Docker GUI Public Token Info
+- User Name : `aicastleedu`
+- User PWD (Token) : `dckr_pat_aNfkbFrkx_HO0YBqkmIl-Z-duvI`
+
+## RDP Info
+- User Name : `user`
+- User PWD  : `1234`
+- RDP Port : `3390`
 
 ## RUN Example
 - 22.04
