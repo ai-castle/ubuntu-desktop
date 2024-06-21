@@ -3,19 +3,19 @@
 ## [1] 도커 데스크탑 실행 및 로그인
 ### 1. 도커 데스크탑 실행  
 
-    ![alt text](images/image.png)
+![alt text](images/image.png)
 
 ### 2. 로그인 (공개 계정)
 
-    - 터미널에 아래 명령어를 실행  
-        ```shell
-        docker login -u aicastleedu -p dckr_pat_8-t6YhrqbCZwOzHLe8e7Tj51mDg
-        ```
+- 터미널에 아래 명령어를 실행  
+    ```shell
+    docker login -u aicastleedu -p dckr_pat_8-t6YhrqbCZwOzHLe8e7Tj51mDg
+    ```
 
-    - `Login Succeeded` 가 나오면 정상적으로 로그인 된 것입니다.  
+- `Login Succeeded` 가 나오면 정상적으로 로그인 된 것입니다.  
 
-    - 우측 상단 계정 표시에 `aicastleedu`가 나오는지 확인  
-    ![alt text](images/image-1.png)
+- 우측 상단 계정 표시에 `aicastleedu`가 나오는지 확인  
+![alt text](images/image-1.png)
 
 ## [2] docker pull
 - 좌측 Images 메뉴를 클릭 > Hub 탭 클릭  
