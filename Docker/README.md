@@ -2,7 +2,7 @@
 
 ## Docker GUI Public Token Info
 - User Name : `aicastleedu`
-- User PWD (Token) : `dckr_pat_aNfkbFrkx_HO0YBqkmIl-Z-duvI`
+- User PWD (Token) : `dckr_pat_8-t6YhrqbCZwOzHLe8e7Tj51mDg`
 
 ## RDP Info
 - User Name : `user`
